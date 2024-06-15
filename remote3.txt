@@ -1,0 +1,1 @@
+fetch + mergeでmergeコミットを作成
