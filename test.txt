@@ -1,2 +1,5 @@
 テスト用ファイル
-これはgithub上でファイルを作った後のコミット
+これはgithub上でファイルを作った後のコミット（add_fromremote.txt）
+
+github上でremote2.txtを作る前のコミット
+
