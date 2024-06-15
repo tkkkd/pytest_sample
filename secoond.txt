@@ -1,0 +1,6 @@
+bbbb
+
+git push -u origin <branch_name>
+上流ブランチがセットされる
+git push origin <branch_name>
+上流ブランチがセットされない
