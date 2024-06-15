@@ -3,3 +3,4 @@
 
 github上でremote2.txtを作る前のコミット
 
+github上でemote2.txtを作った後のコミット
