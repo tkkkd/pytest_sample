@@ -6,3 +6,9 @@ github上でremote2.txtを作る前のコミット
 github上でemote2.txtを作った後のコミット
 
 main branchでgithub上で変更を加える前のコミット
+commit 31671c3ab676aee26897e916d9059898b9e44c65 (HEAD -> sub3_branch)
+Author: tkkkd <>
+Date:   Sun Jun 16 01:18:48 2024 +0900
+
+    modify test.txt
+commit id はこんな感じ
