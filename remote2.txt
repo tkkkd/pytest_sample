@@ -1,0 +1,8 @@
+github上で作成
+
+commit 942fa87a599fd98c3f8a843bdc217fecccfd78ce (HEAD -> sub3_branch)
+Author: 
+Date:   Sun Jun 16 01:08:40 2024 +0900
+
+    modify test.txt before make remtoe2.txt on github
+をpushする前に作成
