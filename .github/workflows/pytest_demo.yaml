@@ -1,6 +1,6 @@
 name: pytest Demo
 run-name: ${{ github.actor }} is testing out by pytest 🚀
-on: [push, pull_request, workflow_dispatch]
+on: [workflow_dispatch]
 jobs:
   Pytest-CICD-demo:
     runs-on: ubuntu-latest
